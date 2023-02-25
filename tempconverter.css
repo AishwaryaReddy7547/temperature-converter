@@ -1,0 +1,14 @@
+h1{
+    color:rgb(186, 49, 62);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:40px;
+    font-style: italic;
+    text-align:center;
+    text-decoration:none;
+}
+body{
+    background-image:url('backimage.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
